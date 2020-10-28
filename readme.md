@@ -5,3 +5,5 @@ Steps:
 2) Run the .py file
 
 Now you can just write the name of a song and the script will download it for you!
+ An error might occur while getting the url.
+ 
